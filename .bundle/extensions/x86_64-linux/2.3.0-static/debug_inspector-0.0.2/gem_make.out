@@ -1,0 +1,15 @@
+current directory: /home/nitrous/code/modification-nested-routes-lab-v-000/.bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+/usr/local/opt/rbenv/versions/2.3.1/bin/ruby -r ./siteconf20160909-626-1ocjcn6.rb extconf.rb
+creating Makefile
+
+current directory: /home/nitrous/code/modification-nested-routes-lab-v-000/.bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /home/nitrous/code/modification-nested-routes-lab-v-000/.bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+
+current directory: /home/nitrous/code/modification-nested-routes-lab-v-000/.bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20160909-626-xeg2jp
